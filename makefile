@@ -3,5 +3,5 @@ CFLAGS=-g
 FILES=*.c
 EXEC=synflood
 
-raycaster: $(FILES)
+synflood: $(FILES)
 	$(CC) $(FILES) $(CFLAGS) -o $(EXEC)
