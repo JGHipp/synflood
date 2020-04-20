@@ -1,0 +1,11 @@
+# Synflood
+
+Written by John Hippisley (c. 2017)
+Utility for doing a DOS-style flood.
+Based off of www.binarytides.com/syn-flood-dos-attack/
+
+## Usage
+
+sudo ./synflood [destinaton-ip] [destination-port]
+Use ^C to stop flooding; was too lazy to implement a limit of some sort :P
+
