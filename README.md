@@ -6,7 +6,7 @@ Based off of www.binarytides.com/syn-flood-dos-attack/
 
 ## Usage
 <pre>
-sudo ./synflood [destinaton-ip] [destination-port]<br/>
+sudo ./synflood [destinaton-ip] [destination-port]
 </pre>
-<i>Use ^C to stop flooding; was too lazy to implement a limit of some sort :P</i>
+<i>Note: </i> Use Ctrl+C to stop flooding; was too lazy to implement a limit of some sort :P
 
